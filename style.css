@@ -1,0 +1,4 @@
+body {
+    width: clamp(300px, 80%, 600px);
+    margin: auto;
+}
